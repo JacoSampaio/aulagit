@@ -18,8 +18,3 @@ abreviações:
           digitar <chr>.
           Se não tiver META, EDIT ou ALT, no lugar digite ESC e depois
           <chr>. Escrevemos <ESC> para tecla ESC.
-
-
-Nota importante: para terminar a sessão do Emacs, digite C-x C-c. (Dois
-caracteres.) Os caracteres ">>" na margem esquerda indicam direções para
-você tentar usar um comando.
