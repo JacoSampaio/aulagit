@@ -2,7 +2,8 @@
 #
 # Exemplo de um script bash
 echo "Arquivos no diretorio HOME"
-ls $HOME
+
+
 testando criptogravifia rsa
 Tutorial do Emacs. Veja no fim as condições para cópia.
 
